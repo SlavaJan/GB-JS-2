@@ -1,0 +1,44 @@
+#board{
+	border: 15px solid #3e2412;
+	padding: 5px;
+	background-color: #b68d4f;
+	float: right;
+}
+
+.letter-box{
+	display: inline-block;
+	text-align: center;
+	padding: 5px 0;
+}
+
+.letters{
+	color: #3e2412;
+	font-weight: bolder;
+}
+
+.num-box{
+
+}
+
+.numbers{
+	display: inline-block;
+	color: #3e2412;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.white{
+	background-color: #b68d4f;
+	float: left;
+	outline: 1px solid #3e2412;
+}
+
+.black{
+	background-color: #3e2412;
+	float: left;
+	outline: 1px solid #3e2412;
+}
+
+.active{
+	box-shadow: inset 0 0 5px 5px rgba(200,200,200,0.9);
+}

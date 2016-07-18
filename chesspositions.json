@@ -1,0 +1,131 @@
+[
+	{
+		"wpawn1": "a 2",
+		"src": "img/wpawn.png"
+			},
+	{
+		"wpawn2": "b 2",
+		"src": "img/wpawn.png"
+			},
+	{
+		"wpawn3": "c 2",
+		"src": "img/wpawn.png"
+			},
+	{
+		"wpawn4": "d 2",
+		"src": "img/wpawn.png"
+			},
+	{
+		"wpawn5": "e 2",
+		"src": "img/wpawn.png"
+			},
+	{
+		"wpawn6": "f 2",
+		"src": "img/wpawn.png"
+			},
+	{
+		"wpawn7": "g 2",
+		"src": "img/wpawn.png"
+			},
+	{
+		"wpawn8": "h 2",
+		"src": "img/wpawn.png"
+			},
+	{
+		"wtower1": "a 1",
+		"src": "img/wtower.png"
+			},
+	{
+		"wtower2": "h 1",
+		"src": "img/wtower.png"
+			},
+	{
+		"wknight1": "b 1",
+		"src": "img/wknight.png"
+			},
+	{
+		"wknight2": "g 1",
+		"src": "img/wknight.png"
+			},
+	{
+		"welephant1": "c 1",
+		"src": "img/welephant.png"
+			},
+	{
+		"welephant2": "f 1",
+		"src": "img/welephant.png"
+			},
+	{
+		"wking": "e 1",
+		"src": "img/wking.png"
+			},
+	{
+		"wqueen": "d 1",
+		"src": "img/wqueen.png"
+			},
+
+	{
+		"bpawn1": "a 7",
+		"src": "img/bpawn.png"
+			},
+	{
+		"bpawn2": "b 7",
+		"src": "img/bpawn.png"
+			},
+	{
+		"bpawn3": "c 7",
+		"src": "img/bpawn.png"
+			},
+	{
+		"bpawn4": "d 7",
+		"src": "img/bpawn.png"
+			},
+	{
+		"bpawn5": "e 7",
+		"src": "img/bpawn.png"
+			},
+	{
+		"bpawn6": "f 7",
+		"src": "img/bpawn.png"
+			},
+	{
+		"bpawn7": "g 7",
+		"src": "img/bpawn.png"
+			},
+	{
+		"bpawn8": "h 7",
+		"src": "img/bpawn.png"
+			},
+	{
+		"btower1": "a 8",
+		"src": "img/btower.png"
+			},
+	{
+		"btower2": "h 8",
+		"src": "img/btower.png"
+			},
+	{
+		"bknight1": "b 8",
+		"src": "img/bknight.png"
+			},
+	{
+		"bknight2": "g 8",
+		"src": "img/bknight.png"
+			},
+	{
+		"belephant1": "c 8",
+		"src": "img/belephant.png"
+			},
+	{
+		"belephant2": "f 8",
+		"src": "img/belephant.png"
+			},
+	{
+		"bking": "e 8",
+		"src": "img/bking.png"
+			},
+	{
+		"bqueen": "d 8",
+		"src": "img/bqueen.png"
+			}
+  ]
